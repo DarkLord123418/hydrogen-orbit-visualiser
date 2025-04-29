@@ -1,3 +1,8 @@
+Created By 
+Jahid Sarkar (jahidsarkar611@gmail.com) as a project under Prof. Dr. Manmohan Singh Shishodia as a mini project during Semester IV, in Quantum Mechanics & Applications (PH 312)
+
+
+
 This project simulates the hydrogen atom's wavefunctions using the following quantum numbers:
 
 Principal Quantum Number (n)
