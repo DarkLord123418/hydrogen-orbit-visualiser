@@ -1,5 +1,5 @@
 Created By 
-Jahid Sarkar (jahidsarkar611@gmail.com) under Prof. Dr. Manmohan Singh Shishodia as a mini project during Semester IV, in Quantum Mechanics & Applications (PH 312)
+Jahid Sarkar (jahidsarkar611@gmail.com) under Prof. Dr. Manmohan Singh Shishodia as a mini project during Semester V, in Quantum Mechanics & Applications (PH 312)
 
 
 
