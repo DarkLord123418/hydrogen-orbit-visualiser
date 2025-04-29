@@ -21,6 +21,8 @@ get_orbital_name(n, l): Returns the name of the orbital (e.g., 1s, 2p, etc.) bas
 plot_orbital(): Plots the orbital or probability density based on user input and selected quantum numbers.
 
 **How to Use**
+
+
 **run "pip install numpy matplotlib tk scipy" to install necessary libraries**
 Run the Python script 2D Hydrogen Orbit Visualiser.py.
 
