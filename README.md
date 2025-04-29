@@ -24,6 +24,7 @@ plot_orbital(): Plots the orbital or probability density based on user input and
 
 
 **run "pip install numpy matplotlib tk scipy" to install necessary libraries**
+
 Run the Python script 2D Hydrogen Orbit Visualiser.py.
 
 The application window will open, and you can input your desired quantum numbers:
