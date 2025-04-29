@@ -5,11 +5,7 @@ Jahid Sarkar (jahidsarkar611@gmail.com) under Prof. Dr. Manmohan Singh Shishodia
 
 This project simulates the hydrogen atom's wavefunctions using the following quantum numbers:
 
-Principal Quantum Number (n)
-
-Angular Quantum Number (l)
-
-Magnetic Quantum Number (m)
+Principal Quantum Number (n), Angular Quantum Number (l), Magnetic Quantum Number (m)
 
 The simulation calculates the radial wavefunction and the spherical harmonics to visualize the orbital or the probability density. You can choose to display either the orbital shape or the probability density.
 
@@ -24,7 +20,8 @@ get_orbital_name(n, l): Returns the name of the orbital (e.g., 1s, 2p, etc.) bas
 
 plot_orbital(): Plots the orbital or probability density based on user input and selected quantum numbers.
 
-How to Use
+**How to Use**
+**run "pip install numpy matplotlib tk scipy" to install necessary libraries**
 Run the Python script 2D Hydrogen Orbit Visualiser.py.
 
 The application window will open, and you can input your desired quantum numbers:
